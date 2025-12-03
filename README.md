@@ -1,3 +1,12 @@
+**Note:**  
+This React-based UI is part of a larger project and is designed to work together with the Python API provided in this repository. The Python API powers the local LLM (Large Language Model) backend, handling all model inference and vector database operations.  
+To use this UI, make sure you have the Python API running (see `chat_server.py` or `chat_server_vector.py`). The UI communicates with the Python backend to provide chat functionality and access to local LLM features.
+
+The local LLM with vector database integration project can be found here: (https://github.com/Aphiwish-Aphisaksiri/Local-LLM-with-Vector-database-integration)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
